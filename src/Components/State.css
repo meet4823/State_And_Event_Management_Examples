@@ -1,0 +1,25 @@
+#main
+{
+   padding-left:50px;
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+ p{
+     font-size: 30px;
+ }
+ input[type=text] {
+    padding: 10px;
+  font-size: 17px;
+  
+    border-radius: 2px;  
+  }

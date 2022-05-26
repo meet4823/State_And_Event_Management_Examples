@@ -1,0 +1,280 @@
+
+.split {
+    display:flex;
+    top:-1.8%;
+   position: fixed; 
+   
+  }
+  .split {
+    display:flex;
+
+  }
+  #container{
+  position: relative;
+  text-align: center;
+  color: white;
+  }
+  .head
+  {
+    position: absolute;
+  bottom: 60px;
+  left: 40px;
+  font-style: italic;
+  padding-left: 30px;
+  color: grey;
+  }
+  .head2
+  {
+    position: absolute;
+  top: 10px;
+  left:1px;
+  font-style: italic;
+  padding-left: 30px;
+  color: grey;
+  }
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  #signup
+  {
+    font-size: 13px;
+    padding-right: 10px;
+  }
+  #top
+  {
+
+    padding-top: 20px;
+    padding-left: 460px;
+    
+    display: flex;
+    
+  }
+  #sbutton
+  {
+    
+    border-color: black;
+    border-radius: 25px;
+    padding: 2px 25px;
+    font-weight: 100;
+    color:black;
+  }
+#divb
+{
+  width: 780px;
+  background-color:	#F8F8F8;
+}
+.LoginDivmain
+{
+  
+  height:720px;
+ 
+  width: 100%;
+}
+
+#img1
+{
+  height: 60px;
+  width: 60px;
+}
+#im2
+{
+  height:720px;
+  width: 750px;
+}
+#a
+{
+  padding-left: 190px;
+  font-family: 'Barlow';
+  font-size: 40px;
+  color:black;
+}
+#b
+{
+  padding-left: 200px;
+  font-size: 15px;
+  font-family: 'Barlow';
+  color:black;
+}
+#form
+{
+  padding-left: 200px;
+}
+input[type=text], input[type=password] {
+  
+  box-shadow: 2px 3px 3px #888888;
+  padding: 15px 100px;
+  border-radius: 25px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #F5F5F5;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 15px;
+
+}
+#inp
+{
+  color: black;
+}
+#log
+{
+  padding: 15px 172px;
+  border-radius: 25px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #F5F5F5;
+  box-sizing: border-box;
+  text-align: center;
+  color:white;
+  font-size: 20px;
+  font-weight: 100;
+  background-color:#02959c;
+
+}
+#forget
+{
+  color:yellowgreen;
+  padding-left: 20px;
+  color:#02959c;
+}
+#connect
+{
+  color: grey;
+  padding-top: 30px;
+  padding-left: 40px;
+}
+#mob
+{
+  padding: 12px 50px;
+  border-radius: 25px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #F5F5F5;
+  box-sizing: border-box;
+  text-align: center;
+  color:white;
+  font-size: 17px;
+  font-weight: 100;
+  background-color:#36454F;
+
+}
+#face
+{
+  
+  padding: 12px 50px;
+  border-radius: 25px;
+  margin: 20px 20px;
+  display: inline-block;
+  border: 1px solid #F5F5F5;
+  box-sizing: border-box;
+  text-align: center;
+  color:white;
+  font-size: 17px;
+  font-weight: 100;
+  background-color:#105785;
+
+}
+
+
+
+/*CSS for Upload page*/
+#imgr
+{
+  height: 350px;
+  width: 1230px;
+  padding-left: 150px;
+}
+#bmain
+{
+  background-color:	#F0F0F0;
+  
+}
+
+/*SerachBox*/
+.search-container {
+  margin:10px;
+  margin-left: 17%;
+ border:none;
+ }
+ 
+input[type=text] {
+   padding: 10px;
+ margin-top: 30px;
+ font-size: 17px;
+ 
+   border-radius: 2px;  
+ }
+ 
+ .search-container button {
+   
+   padding: 11px 11px;
+   background-color: white;
+   margin-right: 16px;
+  
+   font-size: 17px;
+   border: none;
+   cursor: pointer;
+   box-shadow: 2px 3px 3px #888888;
+ }
+ 
+ .search-container button:hover {
+   background:  rgb(47, 85, 189);
+ }
+ #sname
+ {
+     padding-right: 300px;
+    color:rgb(192, 183, 183);
+ }
+ input[type=file]{
+  width:90px;
+  color:transparent;
+border: none;
+}
+#or
+{
+
+  font-family: barlow;
+  padding-left: 50%;
+  margin-top: -35px;
+  
+}
+
+.choose
+{
+  padding-left: 15%;
+}
+#upload
+{
+  margin-left: 50px;
+  height: 45px;
+  width: 100px;
+   background-color: white;
+   margin-right: 16px;
+   background-color:#02959c;
+   font-size: 17px;
+   border: none;
+   cursor: pointer;
+   color:white;
+   font-weight: 100;
+   box-shadow: 2px 3px 3px #888888;
+  
+}
+#and
+{
+  margin-left: 45px;
+  font-family: barlow;
+
+}
+#dis
+{
+  display: flex;
+  margin-left:55%;
+  margin-top: -56px;
+  padding-left: 35px;
+  
+}
+
+
+

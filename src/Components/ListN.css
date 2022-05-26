@@ -1,0 +1,49 @@
+#nav
+{
+background-color: #004990;
+color:#ffffff;
+font-size:18px;
+font-family:'Barlow';
+font-weight:600;
+}
+#event
+{
+   font-weight:bold;
+    font-size: 40px;
+    text-align: center;
+    
+}
+#Main
+{
+   padding-left:40%;
+   background-color: lightcoral;
+}
+button {
+    background-color: blue; /* Green */
+    border:blue;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+ p{
+     font-size: 30px;
+ }
+ input[type=text] {
+    padding: 10px;
+  font-size: 17px;
+  
+    border-radius: 2px;  
+  }
+  #state
+  {
+    background-color:lightgreen;
+  }
+  #st
+  {
+    font-size: 20px;
+  }
